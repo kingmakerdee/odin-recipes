@@ -1,0 +1,13 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.recipes{
+	background-color: black;
+	color: white;
+}
+
+.link{
+	color: white;
+	font-weight: 800;
+}
